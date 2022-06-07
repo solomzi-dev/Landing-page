@@ -77,7 +77,7 @@ section.banner p {
 }
 
 section.banner > .container {
-    height: 35vh;
+    height: 50vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -96,7 +96,7 @@ section.banner > .container {
 
 /* Info section */
 section.info {
-    height: 30vh;
+    height: 40vh;
     display: flex;
     align-items: center;
     justify-content: center;
